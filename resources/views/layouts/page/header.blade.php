@@ -112,5 +112,12 @@
                 <a href="#" class="text-white"  data-toggle="modal" data-target="#modal-menu"><i class="fa fa-bars fa-2x"></i></a>
             </div>
         </div>
+        
+        <div class="row">
+                                <div class="col text-right">
+                                                           <a href="{{asset('pdf/coronavirus-gotoperu.pdf')}}" target="_blank" style="color: #59d8d8" class="h4 font-weight-bold">Update Covid-19</a>
+                                                                   </div>
+                                                                           </div>
+        
     </div>
 </div>
