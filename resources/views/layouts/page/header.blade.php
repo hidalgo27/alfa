@@ -31,21 +31,14 @@
                     <div class="col-auto">
                         <div class="nav-tabs-wrapper sticky-top bg-rgba-dark rounded-bottom">
                             <ul id="menu" class="nav nav-pills nav-tabs dragscroll horizontal d-sm-flex nav-itinerary">
+                              
                                 <li class="nav-item">
-                                    <a class="nav-link text-white font-weight-bold rounded-0" href="tel:+56225814909"><img src="{{asset('images/icons/chile.png')}}" alt="" width="22" data-toggle="tooltip" data-placement="top" title="Chile"> +56 225814909</a>
+                                    <a class="nav-link text-white font-weight-bold rounded-0" href="tel:+5715800884"><img src="{{asset('images/icons/colombia.png')}}" alt="" width="22" data-toggle="tooltip" data-placement="top" title="Colombia"> +57 1 580-0884</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link text-white font-weight-bold rounded-0" href="tel:+523341625836"><img src="{{asset('images/icons/mexico.png')}}" alt="" width="22" data-toggle="tooltip" data-placement="top" title="México"> +52 3341625836</a>
+                                    <a class="nav-link text-white font-weight-bold rounded-0" href="tel:+5117059774"><img src="{{asset('images/icons/peru.png')}}" alt="" width="22" data-toggle="tooltip" data-placement="top" title="Argentina"> +51 1 705-9774</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-white font-weight-bold rounded-0" href="tel:+5713819310"><img src="{{asset('images/icons/colombia.png')}}" alt="" width="22" data-toggle="tooltip" data-placement="top" title="Colombia"> +57 1 3819310</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-white font-weight-bold rounded-0" href="tel:+541151990581"><img src="{{asset('images/icons/argentina.png')}}" alt="" width="22" data-toggle="tooltip" data-placement="top" title="Argentina"> +54 11 5199-0581</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-white font-weight-bold rounded-0" href="tel:+5078365248"><img src="{{asset('images/icons/panama.png')}}" alt="" width="22" data-toggle="tooltip" data-placement="top" title="Panamá"> +507 836-5248</a>
-                                </li>
+                               
                             </ul>
                         </div>
                     </div>
